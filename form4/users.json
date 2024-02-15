@@ -1,0 +1,8 @@
+{
+    "u1": {"password": "abc", "group": "admin"},
+    "u11": {"password": "abcc", "group": "admin"},
+    "u2": {"password": "def", "group": "user"},
+    "u22": {"password": "deff", "group": "user"},
+    "u3": {"password": "ghi", "group": "host"},
+    "u33": {"password": "ghii", "group": "host"}
+}
