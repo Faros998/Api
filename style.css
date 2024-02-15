@@ -1,0 +1,15 @@
+body {background-image: linear-gradient(rgb(173, 173, 173),rgb(100, 100, 100), rgb(233, 233, 233));
+}
+
+.one {margin: 10px;
+    padding: 10px;
+    background-color: rgb(233, 233, 233);}
+.two {margin: 10px;
+    padding: 10px;
+    background-color: rgb(213, 213, 213);}
+.three {margin: 10px;
+    padding: 10px;
+    background-color: rgb(193, 193, 193);}
+.four {margin: 10px;
+    padding: 10px;
+    background-color: rgb(173, 173, 173)}
