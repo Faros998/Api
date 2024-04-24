@@ -1,5 +1,7 @@
 # API s evidencí osob - praktická ukázka https://faros.wz.cz/
 
+# Návod pro developery
+
 Na serveru faros.wz.cz běží evidence osob a poskytuje čtyři varianty API.
 
 ## První varianta je API bez zabezpečení
